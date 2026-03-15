@@ -1,0 +1,26 @@
+body {
+	margin: 0px;
+	background: #121212;
+	font-family: sans-serif;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+}
+
+.ui {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	width: 100%;
+}
+
+.ui>img {
+	height: 150px;
+	width: 150px;
+}
+
+.ui>div {
+	color: darkgray;
+	font-size: 13px;
+}
