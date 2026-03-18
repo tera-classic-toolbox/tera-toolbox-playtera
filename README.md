@@ -1,6 +1,7 @@
-# TERA Toolbox for Play Tera (patch 46.05)
+# ⭐ TERA Toolbox for Play Tera (patch 46.05)
 
 * The TERA Toolbox for **Play Tera** server (patch 46.05) with auto-updates of all supported modules.
+* Improved version based on the latest release of [TERA Toolbox Private](https://github.com/tera-private-toolbox/tera-toolbox) (patch 100).
 * You can get some modules available on the **Get More Mods** tab.
 
 ## [EN] Installation
@@ -14,10 +15,10 @@
 
 ## [RU] Установка
 
-* Скачайте программу установки с GitHub [по этой ссылке](https://github.com/tera-classic-toolbox/tera-toolbox-playtera/releases/download/teratoolbox-setup/TeraToolboxSetup.exe).
+* Скачайте программу установки с GitHub по [этой ссылке](https://github.com/tera-classic-toolbox/tera-toolbox-playtera/releases/download/teratoolbox-setup/TeraToolboxSetup.exe).
 * Запустите скачанную программу установки и следуйте инструкциям мастера.
 * Запустите `TeraToolbox.exe` из папке установки или с ярлыка на рабочем столе.
-* Первый запуск после установки может занять некоторое время, в зависимости от вашего интернет-соединения.
+* Первый запуск после установки может занять время, в зависимости от вашего интернет-соединения.
 * Посетите вкладку **Скачать модули** для получения модулей, которые вы хотите установить.
 * Когда все готово, нажмите кнопку **Запустить** в правом верхнем углу, затем запустите игру как обычно.
 
