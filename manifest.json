@@ -34,7 +34,7 @@
 		"bin/mod.js": "ec0dddbaaf291e647461294b06ac7294d00881e7671488d1b059a74e2885b6e5",
 		"bin/proxy.js": "292b7254b13cee9e646484daaa3cbe48aa5135c7107adb95029c4e474980ae12",
 		"bin/update-electron.js": "ee2868dde6572dd3aee97f6b45a3b90b071e46ed91ded2513ae4ef298c9cad46",
-		"bin/update-self.js": "41aef66e261f68ec488ec738987c96d72716cda5cc52f1d587d02c1b2db26402",
+		"bin/update-self.js": "e24ade8cff4a70a7976f3a0516402c933564f6a7bc46bb0bda1cc488a77f8595",
 		"bin/update.js": "66d348252c0b7aff1ab31a64f447e890e1f5c27907a9e615aee9bd1d1576cccb",
 		"bin/utils.js": "7a63e8cf007a96c5099eb1dca1cf54689b14e2964c0ae849c8b2baac8adac509",
 		"data/data.json": "6678a35fae5f8d1e4f4a95f6a3c90ac69c593e6ea554236e94d5d5cb064abe31",
